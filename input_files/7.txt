@@ -1,0 +1,13 @@
+int
+=
+float
+++
+"abc"
+'xyz'
+'abc
+abc"
+5
+5.05
+5.a4
+5j
+main
